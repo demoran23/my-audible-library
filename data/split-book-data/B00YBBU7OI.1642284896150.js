@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>After a contagion engulfs humanity, zombies rise to feast on the few survivors that are left. But they are not the worst monsters to come from this plague. There is hope, though: Christian Hunt is immune. But how many lives will it take to bring his gift to what's left of mankind? </p>"; 
