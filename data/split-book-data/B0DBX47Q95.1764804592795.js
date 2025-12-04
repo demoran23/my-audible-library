@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The politics of the Telhian Empire are on display as Eryk and the company navigates the dangers within the Empire. The wayward hero thinks he is going to have time to relax after the harrowing experience in Macha. Things are never that simple as Eryk continues to grow and mature as a soldier.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Eyes of the Demon</b></p> <p>Continuing their journey, Rudeus, Eris and Ruijerd have a run in with a figure from legend--none other than the Great Emperor of the Demon World, Kishirika herself! When the trio lend her their aid, Kishrika rewards Rudy with a strange new power...one that might just be more than he bargained for.</p>"; 

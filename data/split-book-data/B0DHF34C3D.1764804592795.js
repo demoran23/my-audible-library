@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>SEEKING SUPPORT</b></p> <p>Rudeus arrives at Irel City in Biheiril Kingdom to request Ruijerd's support in his battle against Geese. The road to Ruijerd is a bumpy one, but after ten long years apart they finally reunite. Will Rudeus's impassioned pleas for aid in the Laplace War reach Ruijerd's heart? The answer might surprise you!</p>"; 

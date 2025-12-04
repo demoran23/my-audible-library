@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The company returns to the capital of the Telhian Empire, but our hero is not safe. First Citizens plot against him, but he finds allies and reluctantly joins the conspiracy against the Emperor. His tribulations are not over, as he must now survive becoming one of the Empire's elite Hounds.</p>"; 

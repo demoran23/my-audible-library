@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Father vs. Son</b></p> <p>Rudeus and his party arrive in Millishion, capital of the Holy Country of Millis--only to find themselves tangled up with yet another attempted kidnapping. But the real shock comes when the kidnappers' very familiar boss shows up on the scene. What will this unexpected reunion bring?!</p>"; 

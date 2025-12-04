@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>BLAST FROM THE PAST!</b></p> <p>Life at the Ranoa University of Magic suddenly gets more interesting when Rudeus discovers the mysterious Fitz's true identity. What will this unforeseen reunion bring? And what if it is too late for him and his long-lost friend to repair the bond they once had?</p>"; 

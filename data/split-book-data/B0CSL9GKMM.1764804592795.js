@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>BACK TO SCHOOL</b></p> <p>A letter for Rudeus arrives out of the blue, bearing an invitation to enroll at the Ranoa University of Magic. The admissions exam is a cakewalk, but once Rudeus is accepted, a far less straightforward challenge awaits him—getting to know his eccentric new classmates!</p>"; 

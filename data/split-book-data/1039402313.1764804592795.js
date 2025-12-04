@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>The adventure continues! </b></p> <p>Elaine learns how to be a Ranger and about the cold realities of fire magic, healing, and life at the bottom of the food chain.</p>"; 

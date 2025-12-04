@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Second Chance</b></p> <p>Rudeus's brief meeting with his time-travelling future self leaves him struggling to process the terrible suffering that version of him endured. But he might be able to avert those losses in this timeline, if he takes his future self's advice--starting with reaching out to Eris for the first time in years!</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>AN EX-GIRLFRIEND COMES TO TOWN</b></p> <p>Putting loss and grief behind them, Rudeus and his two wives are ready to settle into polygamous bliss--until an old flame arrives, stirring up old memories. Will the Greyrat family ever achieve the domesticity they hope for? Or are they doomed to be dogged by drama all their days?</p>"; 

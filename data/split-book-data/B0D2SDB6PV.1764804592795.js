@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>LONG LIVE THE KING</b></p> <p>Now officially Dragon God Orsted's underling, Rudeus receives his first mission: to make Princess Arielle the next king of Asura Kingdom! Mighty as the endeavor might seem, it's just the first of many steps he'll have to take if he's going to help Orsted bring down the Man God.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>LITTLE SISTERS MAKE BIG PROBLEMS!</b></p> <p>Rudeus has adventured across continents and survived run-ins with gods--and none of it has prepared him to watch Aisha and Norn when Paul leaves them temporarily in his care. Can he rise to the occasion yet again, or will parenting two preteen girls be the ordeal that ultimately defeats him?!</p>"; 
